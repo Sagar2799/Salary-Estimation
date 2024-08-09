@@ -1,0 +1,5 @@
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+survey_results_public.csv filter=lfs diff=lfs merge=lfs -text
+stack-overflow-developer-survey-2023/saved_steps.pkl filter=lfs diff=lfs merge=lfs -text
+saved_steps.pkl filter=lfs diff=lfs merge=lfs -text
